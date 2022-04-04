@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/activity_login.xml" value="0.13134057971014493" />
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/activity_previous_data.xml" value="0.12364130434782608" />
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/activity_quiz.xml" value="0.13134057971014493" />
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/activity_quiz_rules.xml" value="0.13134057971014493" />
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.13134057971014493" />
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/activity_welcome.xml" value="0.13134057971014493" />
+        <entry key="..\:/And proj/MyApp/app/src/main/res/layout/score_bottom_sheet.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment4/CardGame_Mataliyah1/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment4/CardGame_Mataliyah1/app/src/main/res/layout/activity_quiz.xml" value="0.209375" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment4/MyApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.144" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment4/MyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.144" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment4/MyApp/app/src/main/res/layout/activity_quiz.xml" value="0.209375" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/activity_login.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/activity_previous_data.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/activity_quiz.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/activity_quiz_rules.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/activity_splash_screen.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/activity_welcome.xml" value="0.2338935574229692" />
+        <entry key="..\:/Users/neels/Documents/1_MS Computer Science/Montclair/Semester/Spring_2022/MobileComputing/Assignment5/WWTBM_Mataliyah1/app/src/main/res/layout/score_bottom_sheet.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

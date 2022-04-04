@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/bb">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="50dp"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/FirstName"
+        android:hint="Enter First Name"
+android:layout_marginBottom="30dp"
+android:textSize="25dp"
+android:textColorHint="@color/white"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/FamilyName"
+        android:hint="Enter Family Name"
+        android:layout_marginBottom="30dp"
+        android:textSize="25dp"
+        android:textColorHint="@color/white"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/DOB"
+        android:hint="Enter Date Of Birth"
+        android:layout_marginBottom="30dp"
+        android:textSize="25dp"
+        android:textColorHint="@color/white"
+        android:inputType="date"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Email"
+        android:hint="Enter Email"
+        android:layout_marginBottom="30dp"
+        android:textSize="25dp"
+        android:textColorHint="@color/white"
+        android:inputType="textEmailAddress"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Password"
+        android:hint="Enter Password"
+        android:layout_marginBottom="30dp"
+        android:textSize="25dp"
+        android:textColorHint="@color/white"
+        android:inputType="textPassword"
+        />
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/Password"
+        android:textSize="25dp"
+         />
+    <TextView
+        android:id="@+id/btnAccountExist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Already have an account? Login Here!"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/Password"
+        android:gravity="center_horizontal"
+        android:textSize="20dp"
+        />
+
+</LinearLayout>
